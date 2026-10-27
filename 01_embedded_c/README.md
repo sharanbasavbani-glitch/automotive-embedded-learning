@@ -22,3 +22,10 @@ Practised bitwise operations, input validation, and loops while debugging the pr
 ---
 
 *Learning by writing code, making mistakes, and improving every day.* 💻
+### Day — Arrays, Strings and Functions 28/10/2026
+
+* Practiced functions with parameters and return values.
+* Used arrays and loops to analyze vehicle temperature readings.
+* Implemented functions to find the highest temperature, calculate the average, and count readings above 100°C.
+* Practiced strings using `strlen()` and `strcmp()`.
+* Built a simple vehicle diagnostic program to identify an engine overheating fault code.
